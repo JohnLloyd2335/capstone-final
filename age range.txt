@@ -1,0 +1,7 @@
+infant
+height: 48-50
+weight: 2-4
+
+school aged
+height: 115-150
+weight: 19-41
